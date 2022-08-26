@@ -44,8 +44,8 @@ Feel free to go above and beyond if you have ideas for extra features!
 
 1. Your code should be made available in a public or private repository, on your personal github or bitbucket;
 2. Push up to your repo one last time
-3. Email paul.agada@regovtech.com with the link to your repository
+3. Email your submission to careers@regovtech.com & techchallenge@regovtech.com
 
 ### Questions
 
-If you have any questions during the challenge feel free to email paul.agada@regovtech.com
+If you have any questions email the above emails.
